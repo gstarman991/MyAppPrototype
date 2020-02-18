@@ -1,0 +1,84 @@
+h1{
+  color: rgb(255,255,255);
+  font-size: 40px;
+  font-family: 'Righteous', cursive;
+}
+h2{
+  color: rgb(255,255,255);
+  font-size:20px;
+  font-family: 'Righteous', cursive;
+  padding-bottom: 10px;
+}
+img{
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+body{
+  background-color: rgb(255, 102, 102);
+}
+#head{
+  padding-bottom: 6px;
+  border-bottom: 2px solid white;
+}
+#profile2{
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+}
+#profileMini{
+  padding-top: 4px;
+  border-right: 2px solid white;
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+  height: 125%;
+}
+#followers{
+  padding-top: 4px;
+  border-left: 2px solid white;
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+  height: 125%
+}
+ul{
+  color: rgb(255,255,255);
+  font-size:15px;
+  font-family: 'Righteous', cursive;
+  list-style: none;
+  padding-left: 100px;
+}
+h3{
+  color: rgb(255,255,255);
+  font-size:20px;
+  font-family: 'Righteous', cursive;
+}
+h4{
+  color: rgb(255,255,255);
+  font-size:20px;
+  font-family: 'Righteous', cursive;
+  border: 2px solid white;
+  width: 135px;
+}
+h4:hover{
+  background-color: #92a8d1;
+}
+#appstore{
+  border-radius: 10px;
+  height: 43px;
+  width: 150px;
+}
+h5{
+  background-color: rgb(255,255,255);
+  color: rgb(0,0,0);
+  font-size:10px;
+  border: 1px solid black;
+  height: 135px;
+  width: 300px;
+}
+
+#inner{
+  text-align: left;
+}
+#sally{
+  padding-top: 4px;
+}
